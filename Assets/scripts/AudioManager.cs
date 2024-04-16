@@ -22,10 +22,12 @@ public class AudioManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
     private void Start()
     {
         PlayMusic("Theme");
     }
+
     public void PlayMusic(string name)
     {
         Sound s = Array.Find(musicSounds, x => x.name == name.Trim());
@@ -54,5 +56,27 @@ public class AudioManager : MonoBehaviour
         }
         
     }
+
+    public void ToggleMusic()
+    {
+        musicSource.mute = !musicSource.mute;
+    }
+
+    public void ToggleSFX()
+    {
+        sfxSource.mute = !sfxSource.mute;
+    }
+
+    public void MusicVolume(float volume)
+    {
+        musicSource.volume = volume;
+    }
+
+    public void SFXVolume(float volume)
+    {
+        sfxSource.volume = volume;
+    }
+
+    
 }
 
