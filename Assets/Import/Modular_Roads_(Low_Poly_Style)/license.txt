@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modular Roads (Low Poly Style)
+* source:	https://sketchfab.com/3d-models/modular-roads-low-poly-style-8035c6d9830c42e4990b8273b761e087
+* author:	Tiko (https://sketchfab.com/tikoavp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modular Roads (Low Poly Style)" (https://sketchfab.com/3d-models/modular-roads-low-poly-style-8035c6d9830c42e4990b8273b761e087) by Tiko (https://sketchfab.com/tikoavp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
