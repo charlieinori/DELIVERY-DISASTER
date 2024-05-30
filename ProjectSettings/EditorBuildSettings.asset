@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SCENE 1.unity
     guid: c2bdf09b4f6807843bc0b4a63d256c8f
+  - enabled: 1
+    path: Assets/Scenes/WEWONNO1.unity
+    guid: 670665e8123b2b94f837ed67f8e9b3b8
+  - enabled: 1
+    path: Assets/Scenes/load screen 1.unity
+    guid: 1820e059651201041b65bb44916e1ce6
+  - enabled: 1
+    path: Assets/Scenes/zzz.unity
+    guid: 57320a04132e8d44c80d468861804531
+  - enabled: 1
+    path: Assets/Scenes/SCENE 2.unity
+    guid: ef8edf9e06a022c47bbdac8bff79fff1
+  - enabled: 1
+    path: Assets/Scenes/WELOSTNO1.unity
+    guid: 7ca7d34de9723134e93ccc281e0302e5
   m_configObjects: {}

@@ -6,7 +6,7 @@ public class AIController : MonoBehaviour
 {
 
     public Transform Player;
-    int MoveSpeed = 14;
+    int MoveSpeed = 17;
     int MaxDist = 10;
     int MinDist = 5;
 
