@@ -9,7 +9,7 @@ public class deaf : MonoBehaviour
 
     void OnTriggerEnter(Collider FallingPoint)
     {
-        SceneManager.LoadScene("WELOSTNO1");
+        SceneManager.LoadScene("WELOSTNO111");
     }
 
 }
