@@ -541,12 +541,12 @@ PrefabInstance:
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 164.4287
+      value: 267.7041
       objectReference: {fileID: 0}
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 156.4072
+      value: 256.512
       objectReference: {fileID: 0}
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
@@ -586,12 +586,12 @@ PrefabInstance:
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 483
+      value: 785
       objectReference: {fileID: 0}
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 180.8
+      value: 371
       objectReference: {fileID: 0}
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
@@ -721,12 +721,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ScreenMatchMode: 1
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -960,8 +960,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1208, y: 518}
+  m_AnchoredPosition: {x: -0.00059509, y: -0.01049}
+  m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1635498506
 MonoBehaviour:

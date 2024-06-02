@@ -31,7 +31,19 @@ public class BUTTONCLICK : MonoBehaviour
 
     }
 
+    public void Playgame3()
+    {
+        SceneManager.LoadSceneAsync("SCENE 3");
 
+
+    }
+
+    public void MENU()
+    {
+        SceneManager.LoadSceneAsync("MENU");
+
+
+    }
 
 
 }

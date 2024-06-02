@@ -501,7 +501,7 @@ PrefabInstance:
     - target: {fileID: 689341400560009517, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: Playgame2
+      value: Playgame3
       objectReference: {fileID: 0}
     - target: {fileID: 1230759260403397930, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
@@ -541,12 +541,12 @@ PrefabInstance:
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 301.21
+      value: 313.47
       objectReference: {fileID: 0}
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 305.4357
+      value: 280.5861
       objectReference: {fileID: 0}
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
@@ -591,7 +591,7 @@ PrefabInstance:
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 361
+      value: 399.71
       objectReference: {fileID: 0}
     - target: {fileID: 2200021297489086079, guid: 1d8fa61b17d95aa48bdf15b007273461,
         type: 3}
@@ -725,7 +725,7 @@ MonoBehaviour:
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
-  m_ScreenMatchMode: 1
+  m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0.502
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -960,8 +960,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0027618, y: 0.001297}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_AnchoredPosition: {x: 0.010551, y: 10.6292}
+  m_SizeDelta: {x: 1920, y: 1101.2383}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1635498506
 MonoBehaviour:
