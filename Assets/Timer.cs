@@ -2,19 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using System;
 
 public class Timer : MonoBehaviour
 {
     private bool _timerActive;
     private float _currentTime;
     [SerializeField] private TMP_Text _text;
-    
+
     void Start()
     {
         _currentTime = 0;
-
-        _timerActive = true; 
+        _timerActive = true;
     }
 
     // Update is called once per frame
@@ -22,11 +20,9 @@ public class Timer : MonoBehaviour
     {
         if (_timerActive)
         {
-            _currentTime = _currentTime + Time.deltaTime;
+            _currentTime += Time.deltaTime;
         }
 
-        _text.text = _currentTime.ToString();
+        _text.text = _currentTime.ToString("F1");
     }
-
-
 }

@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WELOSTNO1.unity
     guid: 7ca7d34de9723134e93ccc281e0302e5
+  - enabled: 1
+    path: Assets/Scenes/WELOSTNO2.unity
+    guid: da390376c580d7b438ebadd554d0572f
+  - enabled: 1
+    path: Assets/Scenes/WEWONNO2.unity
+    guid: a74531f82af52c04f84867331256713a
   m_configObjects: {}
